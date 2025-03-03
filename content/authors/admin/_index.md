@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 徐军
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jun Xu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jun
+last_name: Xu
 
 # Status emoji
 status:
@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Reinforcement Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University of Aeronautics and Astronautics
+    url: http://nuaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Unmanned Aerial Vehicle, Deep Reinforcement Learning.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jun Xu is a graduated student from Nanjing University of Aeronautics and Astronautics(NUAA). Now he is a Machine Learning Engineer at the Polixir company. His research interests include Unmanned Aerial Veihicle and Deep Reinforcement Learning.
